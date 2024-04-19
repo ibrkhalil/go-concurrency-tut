@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func main() {
+func main2() {
 	startTime := time.Now()
 
 	defer func () {
